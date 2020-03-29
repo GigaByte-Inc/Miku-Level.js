@@ -1,0 +1,23 @@
+{
+  "name": "miku-level.js",
+  "version": "1.0.1",
+  "description": "A level discord bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miku-s-Heaven/Miku-Level.git"
+  },
+  "keywords": [
+    "levelBot",
+    "DiscordBot"
+  ],
+  "author": "uthsho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miku-s-Heaven/Miku-Level.js/issues"
+  },
+  "homepage": "https://github.com/Miku-s-Heaven/Miku-Level.js#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
