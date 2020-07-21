@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Miku-s-Heaven/Miku-Level.js#readme",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "discord.js": "^12.1.1",
+    "quick.db": "^7.1.1"
   }
 }
