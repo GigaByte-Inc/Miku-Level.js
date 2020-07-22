@@ -2,7 +2,7 @@
   "name": "miku-level.js",
   "version": "1.0.1",
   "description": "A level discord bot",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Miku-s-Heaven/Miku-Level.git"
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Miku-s-Heaven/Miku-Level.js#readme",
   "dependencies": {
     "discord.js": "^12.1.1",
-    "quick.db": "^7.1.1"
+    "mongoose": "^5.9.25"
   }
 }
